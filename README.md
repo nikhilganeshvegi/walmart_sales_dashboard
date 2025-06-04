@@ -16,7 +16,8 @@ The dashboard provides interactive and visual insights on:
 
 ## 📷 Dashboard Preview
 
-[![Dashboard Screenshot](images/dashboard.png)](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard.png)
+
 
 
 
